@@ -8,4 +8,4 @@ Lithuanian:
 
 Preview:
 
-https://imgur.com/c6TBxJZ.png
+![c6TBxJZ](https://github.com/deliuxass/deliux-economy/assets/174446310/fdd4fd8b-5c79-4280-bd27-c64473baf004)
