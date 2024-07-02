@@ -4,3 +4,8 @@ This system provides real-time statistics about the server's economy. It shows t
 
 Lithuanian:
 Ši sistema teikia realaus laiko statistiką apie serverio ekonomiką. Ji rodo grynųjų pinigų, banke laikomų pinigų ir bendrą pinigų kiekį serveryje. Be to, ji seka bendrą serverio nuosavybėje esančių transporto priemonių skaičių. Ši informacija pateikiama aiškiai ir vizualiai patraukliai, kad serverio administratoriai galėtų stebėti serverio finansinę būklę ir išteklius.
+
+
+Preview:
+
+https://imgur.com/c6TBxJZ.png
