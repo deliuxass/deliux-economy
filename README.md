@@ -8,4 +8,5 @@ Lithuanian:
 
 Preview:
 
-![c6TBxJZ](https://github.com/deliuxass/deliux-economy/assets/174446310/fdd4fd8b-5c79-4280-bd27-c64473baf004)
+
+![s4xtRQc](https://github.com/deliuxass/deliux-economy/assets/174446310/d29370d6-fb8b-4a4c-b054-f99859f66a00)
